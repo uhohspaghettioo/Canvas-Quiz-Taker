@@ -90,7 +90,7 @@ The server will initiate at `127.0.0.1`.
     - Modify as per your requirements.
 
 5. 💡 **Engage with Canvas**: 
-    - Navigate to a Canvas quiz and see the script in action, processing questions and presenting GPT-3 responses.
+    - Navigate to a Canvas quiz and see the script in action, processing questions and presenting GPT responses.
 
 6. 🖱️ **Interact with Responses**: 
     - Observe highlighted answers.
