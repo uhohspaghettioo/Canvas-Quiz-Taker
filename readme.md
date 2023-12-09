@@ -21,7 +21,7 @@ DeepThoughts bridges Canvas quizzes and the GPT API. Using a Tampermonkey script
 
 1. **Get the Code**:
    ```bash
-   git clone https://github.com/jonathankirtland/flaskgpt
+   git clone repo address
    cd flaskgpt
    ```
 
