@@ -63,6 +63,7 @@ The server will initiate at `127.0.0.1`.
 - 🌟 **Answer Highlighting**: 
   - GPT-suggested multiple-choice answers are marked, but not noticeable to the untrained eye. try to spot the correct answer here:
   - ![image](https://github.com/uhohspaghettioo/gpcheater/assets/153341004/a6964427-c6dd-4ade-967d-4a37fd088237)
+  - spoilers: its the one with the . in front of it
 
   
 - 🖱️ **Click-to-Copy**: 
