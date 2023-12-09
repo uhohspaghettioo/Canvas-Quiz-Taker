@@ -62,15 +62,13 @@ The server will initiate at `127.0.0.1`.
   
 - 🌟 **Answer Highlighting**: 
   - GPT-suggested multiple-choice answers are clearly highlighted.
-  - ![GPT Answer Highlight](https://github.com//flaskgpt/assets/42749198/535710c4-34b6-4cf7-8269-334b8f80f4cf)
   
 - 🖱️ **Click-to-Copy**: 
   - Easily copy GPT's responses with just a click.
   
   - **Try It Out**: Here's a close-up of the button to press for copying:
-    - ![Clickable Example Close-up](https://github.com//flaskgpt/assets/42749198/650ca76c-9f0a-41f1-ac61-2bbfe4638008)
+  - 
     - And heres what is shown on the screen after getting your response:
-    - ![General Look](https://github.com//flaskgpt/assets/42749198/18986987-b480-41b3-8e41-ed258f3f6f0d)
 
 ### 📋 Usage Instructions
 
@@ -85,11 +83,9 @@ The server will initiate at `127.0.0.1`.
 3. 🖊️ **Edit Your Script File**:
     - Make necessary edits based on your configuration.
     - make sure your secret api key matches the text file secret_key.txt
-    - ![Tampermonkey Script Configuration](https://github.com//flaskgpt/assets/42749198/a5fd1214-d992-4e8a-9435-d2bbd9a225a2)
 
 4. 🖋️ **Edit Your Server File (if needed)**:
     - Modify as per your requirements.
-    - ![Server File Configuration](https://github.com//flaskgpt/assets/42749198/3e88df1e-427f-4cbf-b86c-f877a3d360a4)
 
 5. 💡 **Engage with Canvas**: 
     - Navigate to a Canvas quiz and see the script in action, processing questions and presenting GPT-3 responses.
