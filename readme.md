@@ -36,7 +36,7 @@ DeepThoughts bridges Canvas quizzes and the GPT API. Using a Tampermonkey script
    - **On Windows**:
      ```bash
      echo > key.txt
-     echo > secret_key.txt
+     echo 1234 > secret_key.txt
      ```
 
 3. **Insert API Keys**: Add your OpenAI API key to `key.txt` and your secret key to `secret_key.txt`.
@@ -62,13 +62,14 @@ The server will initiate at `127.0.0.1`.
   
 - 🌟 **Answer Highlighting**: 
   - GPT-suggested multiple-choice answers are clearly highlighted.
+  - ![image](https://github.com/uhohspaghettioo/gpcheater/assets/153341004/a6964427-c6dd-4ade-967d-4a37fd088237)
+
   
 - 🖱️ **Click-to-Copy**: 
   - Easily copy GPT's responses with just a click.
   
   - **Try It Out**: Here's a close-up of the button to press for copying:
-  - 
-    - And heres what is shown on the screen after getting your response:
+  - ![image](https://github.com/uhohspaghettioo/gpcheater/assets/153341004/793dc23b-0d33-4f72-9132-66ff9bb394fb)
 
 ### 📋 Usage Instructions
 
@@ -82,7 +83,7 @@ The server will initiate at `127.0.0.1`.
 
 3. 🖊️ **Edit Your Script File**:
     - Make necessary edits based on your configuration.
-    - make sure your secret api key matches the text file secret_key.txt
+    - make sure your secret api key matches the text file secret_key.txt (this will be 1234 by default, but if for some reason you need a secure flask server, change this.)
 
 4. 🖋️ **Edit Your Server File (if needed)**:
     - Modify as per your requirements.
