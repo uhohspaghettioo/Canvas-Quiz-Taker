@@ -61,14 +61,14 @@ The server will initiate at `127.0.0.1`.
   - Data is sent to the Flask server, and GPT's responses are elegantly displayed directly on the Canvas quiz.
   
 - 🌟 **Answer Highlighting**: 
-  - GPT-suggested multiple-choice answers are clearly highlighted.
+  - GPT-suggested multiple-choice answers are marked, but not noticeable to the untrained eye. try to spot the correct answer here:
   - ![image](https://github.com/uhohspaghettioo/gpcheater/assets/153341004/a6964427-c6dd-4ade-967d-4a37fd088237)
 
   
 - 🖱️ **Click-to-Copy**: 
   - Easily copy GPT's responses with just a click.
   
-  - **Try It Out**: Here's a close-up of the button to press for copying:
+  - **Try It Out**: Here's a close-up of the button to press for copying during the test:
   - ![image](https://github.com/uhohspaghettioo/gpcheater/assets/153341004/793dc23b-0d33-4f72-9132-66ff9bb394fb)
 
 ### 📋 Usage Instructions
@@ -84,6 +84,7 @@ The server will initiate at `127.0.0.1`.
 3. 🖊️ **Edit Your Script File**:
     - Make necessary edits based on your configuration.
     - make sure your secret api key matches the text file secret_key.txt (this will be 1234 by default, but if for some reason you need a secure flask server, change this.)
+    - make sure your key.txt matches your personal OpenAPI API key, and that your account has funding.
 
 4. 🖋️ **Edit Your Server File (if needed)**:
     - Modify as per your requirements.
@@ -97,5 +98,6 @@ The server will initiate at `127.0.0.1`.
 
 7. 🤝 **Support & Feedback**: 
     - Need help or have suggestions? Please open an issue in the repository or reach out to the project maintainer.
+    - create a PR or open an issue to contribute :)
 
 ---
