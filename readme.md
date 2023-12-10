@@ -31,6 +31,7 @@ DeepThoughts bridges Canvas quizzes and the GPT API. Using a Tampermonkey script
      ```bash
      touch key.txt
      touch secret_key.txt
+     echo 1234 > secret_key.txt
      ```
 
    - **On Windows**:
