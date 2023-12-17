@@ -72,6 +72,8 @@ The server will initiate at `127.0.0.1`.
   
   - **Try It Out**: Here's a close-up of the button to press for copying during the test:
   - ![image](https://github.com/uhohspaghettioo/gpcheater/assets/153341004/793dc23b-0d33-4f72-9132-66ff9bb394fb)
+  - this is very obvious to canvas logs, use with your own discretion
+  - also only for FRQ questions, wont copy anything for MC
 
 
 ## Setup Guide for Canvas Assistance
