@@ -25,23 +25,8 @@ DeepThoughts bridges Canvas quizzes and the GPT API. Using a Tampermonkey script
    cd gpcheater
    ```
 
-2. **Create API Key Files**:
-
-   - **On Linux & macOS**:
-     ```bash
-     touch key.txt
-     touch secret_key.txt
-     echo 1234 > secret_key.txt
-     ```
-
-   - **On Windows**:
-     ```bash
-     echo > key.txt
-     echo 1234 > secret_key.txt
-     ```
-
-3. **Insert API Keys**: Add your OpenAI API key to `key.txt` and your secret key to `secret_key.txt`.
-      ``` Remember: you create the secret key, it can be 123 if you want ```
+2. **Insert API Keys**: Add your OpenAI API key to `key.txt`
+      ``` Note: Secret key for server auth is by default 1234 ```
 
 ### 🔥 Running the Server
 
