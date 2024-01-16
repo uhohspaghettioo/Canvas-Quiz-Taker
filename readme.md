@@ -71,7 +71,6 @@ The server will initiate at `127.0.0.1`.
 
 3. 🖊️ **Edit Your Script File**:
     - Make necessary edits based on your configuration.
-    - make sure your secret api key matches the text file secret_key.txt (this will be 1234 by default, but if for some reason you need a secure flask server, change this.)
     - make sure your key.txt matches your personal OpenAPI API key, and that your account has funding.
 
 4. 🖋️ **Edit Your Server File (if needed)**:
