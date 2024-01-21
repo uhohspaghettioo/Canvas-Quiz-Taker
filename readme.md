@@ -27,7 +27,7 @@ DeepThoughts bridges Canvas quizzes and the GPT API. Using a Tampermonkey script
 
 2. **Insert API Keys**: Add your OpenAI API key to `key.txt`
       ``` Note: Secret key for server auth is by default 1234 ```
-3. **Change Canvas**: change the links in [gpcheater/quizzy.user.js] to be your university
+3. **Change Canvas**: change the links in [quizzy.js](gpcheater/quizzy.user.j) to be your university
 
 ### 🔥 Running the Server
 
