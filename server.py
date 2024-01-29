@@ -27,7 +27,7 @@ logging.basicConfig(
 with open(API_KEY_PATH, "r") as f:
     Client = OpenAI(api_key=f.read().strip())
 
-with open(SECRET_API_KEY_PATH, "r", encoding="utf-16") as f:
+with open(SECRET_API_KEY_PATH, "r") as f:
     SECRET_API_KEY = f.read().strip()
 
 def gpt_query(question, answers_string, instruction):
