@@ -35,11 +35,6 @@ Start the Flask server with:
 ```bash
 python server.py
 ```
-
-if you want a cheaper Server (Accuracy seems good, more testing is needed)
-```bash
-python cheap-server.py
-```
 > **Note:** Depending on your OS, use `python3` if `python` doesn't work.
 
 The server will initiate at `127.0.0.1`.
