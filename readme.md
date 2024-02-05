@@ -44,6 +44,10 @@ python cheap-server.py
 
 The server will initiate at `127.0.0.1`.
 
+Give it time, if you see the 1 on your tampermonkey, its working. **refreshing the page will get very expensive very fast.**
+
+APPROX 3-4 Seconds = 1 MC Question. A 20 question quiz should take around 1:30 to populate (be patient).
+
 ### ✨ **Key Features**
 
 - 🔍 **Automatic Data Extraction**: 
