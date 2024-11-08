@@ -11,7 +11,7 @@ CORS(app)
 # Config Variables
 API_KEY_PATH = "key.txt"
 SECRET_API_KEY_PATH = "secret_key.txt"
-MODEL_NAME = "gpt-4"
+MODEL_NAME = "gpt-4o"
 SERVER_HOST = "127.0.0.1"
 SERVER_DEBUG_MODE = True
 
