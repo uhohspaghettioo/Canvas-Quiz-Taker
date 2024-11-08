@@ -1,8 +1,6 @@
 ---
 
-# DeepThoughts: Flask & Tampermonkey for Canvas
-
-DeepThoughts bridges Canvas quizzes and the GPT API. Using a Tampermonkey script, it captures quiz questions, processes them with the GPT model, and returns intelligent answers.
+Cheat on your quizzes I guess!
 
 ## 🚀 Getting Started
 
